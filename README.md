@@ -1,6 +1,8 @@
 # IAC-LINUX
 Repositório de arquivos de script criados no projeto Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões, Bootcamp LINUX DIO
 
+Para executar o script, certifique-se de estar logado como usuário root ou relativo.
+
 Anotações sobre informações complementares
 
 - Argumento -crypt passado no parâmetro -p com openssl pode ter sido descontinuado, há necessidade de verificar segundo tópico ecnontrado no fórum do bootcamp
