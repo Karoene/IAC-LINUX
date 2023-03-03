@@ -4,7 +4,7 @@ echo "Iniciando script do site dio e atualizando o servidor..."
 apt-get update
 apt-get upgrade -y
 
-echo "Realizando instalações e downloads necessarios..."
+echo "Realizando instalacoes e downloads necessarios..."
 apt install apache2 -y
 apt install unzip -y
 
